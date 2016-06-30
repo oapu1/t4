@@ -1,0 +1,4 @@
+[submodule "t4sub"]
+	path = t4sub
+	url = https://github.com/oapu1/t4sub.git
+	branch = master
